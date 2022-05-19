@@ -1,4 +1,7 @@
 # SCEdison
 
-SCE provides a "Budget Assistant Alert" email about two weeks before a bill is sent to let you know what you think the estimated bill will be. SCE provides a lot of great data. Can I do a better job estimating? What if we keep running the estimation model right up until the bill is sent - what will the estimation error look like? Besides the current month trend, should we look back a year ago? How does weather impact electricity usage?
+## Jupyter notebook, python, pandas, plotly, numpy
 
+SCE provides up to three "Budget Assistant Alert" emails a few weeks before a bill is sent to let you know what they think the estimated bill will be. Let's take a closer look to see how well the estimation works using stats and visualization.
+
+There are two files: **SoCalEdison.xlsx** and **SCEdison.ipynb**. SoCalEdison.xlsx is the data file used by SCEdison.ipynb.
